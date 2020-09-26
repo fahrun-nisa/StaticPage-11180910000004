@@ -7,13 +7,12 @@ body {
 	border: 10px;
 	padding: 10px;
 	width: 100%;
-	min-height:200px;
+	height: 100%;
 }
 
 /*pengaturan halaman*/
 #container {
-	width: 100%;
-	min-height:200px;
+	width: 1000px;
 	font-size: 90%;
 	margin: 0 auto;
 }
@@ -21,10 +20,9 @@ body {
 /*pengaturan header*/
 #header{
 	padding: 0px ;
-	width: 100%;
+	height: 120px;
 	border: maroon dashed 1px;
 	background-color:pink;
-	height:120px;
 }
 
 #header p{
@@ -110,8 +108,7 @@ ul#navmenu a.selected {
 	margin-bottom: 10px;
 	margin-left: 0;
 	padding: 10px;
-	width: 100%;
-	min-height:200px;
+	width: 977px;
 	display: block;
 	font-size: 25px;
 }
@@ -147,5 +144,4 @@ img {
 	text-align: center;
 	background-color:pink;
 	font-size: 14px;
-	width: 100%;
 }
