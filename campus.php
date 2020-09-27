@@ -32,7 +32,7 @@
 <b><font yang size="5"><p style="text-align:center"> Syahida Inn</b></font></p>
 <small>Syahida Inn is a matter of pride because anyone can access it for workshops, seminars, grand meetings, and even wedding receptions. Syahida Inn consists of six floors with VIP bedroom facilities, courtroom, hall, canteen.</small>
 
-<img src="pustiknas.jpg" width="400" height="200" style="display:block;margin:auto;">
+<img src="pustiknas.JPG" width="400" height="200" style="display:block;margin:auto;">
 <b><font yang size="5"><p style="text-align:center"> National ICT Center</b></font></p>
 <small>The National ICT Center (Pustiknas) is a transformation of the National Information and Communication Technology for Human Resources Development (NICT-HRD) Project which is managed under the Human Resources Research and Development Agency of the Ministry of Communication and Information Technology of the Republic of Indonesia in collaboration with Syarif Hidayatullah State Islamic University Jakarta.</small>
 
